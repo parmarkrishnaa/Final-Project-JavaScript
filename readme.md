@@ -9,7 +9,7 @@ perfect for managing daily goals.
 
 ## 📸 Output Preview
 
-![Task Management App Screenshot](output.png)
+![Task Management App Image](output.png)
 
 > *(Replace `output.png` with the actual screenshot of your project.
 > Place the image in the same folder as this README file.)*
@@ -17,7 +17,7 @@ perfect for managing daily goals.
 ------------------------------------------------------------------------
 
 ## 🌐 Live Demo
-👉 [Click here to view the live project](https://your-username.github.io/task-management-app/)
+👉 [Task Management App](https://task-management-system-eta-six.vercel.app/)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ perfect for managing daily goals.
 1.  Clone this repository or download the project files.
 
     ``` bash
-    git clone https://github.com/your-username/task-management-app.git
+    git clone https://github.com/parmarkrishnaa/Final-Project-JavaScript.git
     ```
 
 2.  Open `index.html` in your browser.
