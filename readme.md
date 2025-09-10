@@ -11,9 +11,6 @@ perfect for managing daily goals.
 
 ![Task Management App Image](output.png)
 
-> *(Replace `output.png` with the actual screenshot of your project.
-> Place the image in the same folder as this README file.)*
-
 ------------------------------------------------------------------------
 
 ## 🌐 Live Demo
